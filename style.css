@@ -17,3 +17,7 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.brand-icon img{
+  width: 130px;
+}
